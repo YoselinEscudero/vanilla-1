@@ -1,0 +1,63 @@
+[
+    {
+        "precio": 500,
+        "id": 1,
+        "title": "café",
+        "imageUrl": "https://picsum.photos/id/0/600"
+    },
+    {
+        "precio": 30,
+        "id": 2,
+        "title": "leche",
+        "imageUrl": "https://picsum.photos/id/10/600"
+    },
+    {
+        "precio": 20,
+        "id": 3,
+        "title": "canela",
+        "imageUrl": "https://picsum.photos/id/20/600"
+    },
+    {
+        "precio": 30,
+        "id": 4,
+        "title": "te",
+        "imageUrl": "https://picsum.photos/id/30/600"
+    },
+    {
+        "precio": 32,
+        "id": 5,
+        "title": "Azucar",
+        "imageUrl": "https://picsum.photos/id/40/600"
+    },
+    {
+        "precio": 12,
+        "id": 6,
+        "title": "Agua",
+        "imageUrl": "https://picsum.photos/id/50/600"
+    },
+    {
+        "precio": 17,
+        "id": 7,
+        "title": "chips",
+        "imageUrl": "https://picsum.photos/id/60/600"
+    },
+    {
+        "precio": 16,
+        "id": 8,
+        "title": "Yogurth",
+        "imageUrl": "https://picsum.photos/id/70/600"
+    },
+    {
+        "precio": 80,
+        "id": 9,
+        "title": "chocolate",
+        "imageUrl": "https://picsum.photos/id/80/600"
+    },
+    {
+        "precio": 100,
+        "id": 10,
+        "title": "cajeta",
+        "imageUrl": "https://picsum.photos/id/90/600"
+    }
+
+]
